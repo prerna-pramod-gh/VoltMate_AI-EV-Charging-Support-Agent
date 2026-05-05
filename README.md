@@ -24,3 +24,7 @@ Test Escalation: Type "The charger is broken!" or "I am stranded."
 - Option 2: Run Web Interface (Frontend)
 Download or open index.html.
 Interact with the chat widget in your browser.
+
+
+<img width="1894" height="896" alt="image" src="https://github.com/user-attachments/assets/cdca0ec2-cfc2-4757-99a3-9be5cb703dba" />
+
