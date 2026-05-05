@@ -1,4 +1,4 @@
-⚡ VoltMate: AI EV Charging Support Agent
+## ⚡ VoltMate: AI EV Charging Support Agent
 
 VoltMate is a specialized AI Customer Support Agent designed for the Electric Vehicle (EV) industry. As we approach 2026, EV adoption is skyrocketing, and drivers need instant help with charging.
 
