@@ -2,8 +2,8 @@
 A smart Customer Support Agent that answers queries and automatically detects user frustration. If the user is angry, it triggers an Escalation Logic to transfer them to a human agent.
 
 ### 🛠️ Tech Stack
-| Backend Logic: Python
-| Frontend UI: HTML, CSS, JavaScript (Terminal Design)
+- Backend Logic: Python
+- Frontend UI: HTML, CSS, JavaScript (Terminal Design)
 
 ### Features
 Conversational AI: Handles basic user queries.
